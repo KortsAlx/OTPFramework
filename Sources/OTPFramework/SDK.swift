@@ -9,7 +9,7 @@ import Foundation
 
 
 public struct SDK {
-    public static fun doSomeWork(){
+    public static func doSomeWork(){
         print("Doing some work... ")
     }
     
